@@ -1,0 +1,5 @@
+interface Service {
+
+    fun display()
+
+}

@@ -1,0 +1,1 @@
+class DelegationServiceImpl(service: Service): Service by service
